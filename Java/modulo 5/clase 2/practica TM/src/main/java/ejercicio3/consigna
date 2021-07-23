@@ -1,0 +1,7 @@
+● Crea una clase Libro con los métodos: préstamo, devolución y toString, cuyo prototipo
+debe ser: public String toString(). Este método debe retornar una cadena que represente al objeto.
+Por ejemplo: si la clase tiene los atributos: título, isbn y autor, una cadena que represente a un
+libro podría ser: “Harry Potter, 9780545582889, Rowling, J. K.”. La clase contendrá un constructor
+por defecto, un constructor con parámetros y los métodos de acceso.
+● Agregar la línea @Override justo arriba del encabezado del método toString. Luego, cambiar el
+nombre del método por: tostring (todo en minuscula) ¿Que sucede?

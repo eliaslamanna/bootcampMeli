@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "aaa",
+    "userId" : 1,
+    "followList" : []
+  },
+  {
+    "name" : "bbb",
+    "userId" : 2,
+    "followList" : []
+  },
+  {
+    "name" : "ccc",
+    "userId" : 3,
+    "followList" : []
+  },
+  {
+    "name" : "ddd",
+    "userId" : 4,
+    "followList" : []
+  }
+]

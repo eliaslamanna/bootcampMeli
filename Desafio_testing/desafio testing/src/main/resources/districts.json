@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Saavedra",
+    "price" : 200
+  },
+  {
+    "name" : "Martelli",
+    "price" : 150
+  },
+  {
+    "name" : "Recoleta",
+    "price" : 500
+  },
+  {
+    "name" : "Palermo",
+    "price" : 450
+  },
+  {
+    "name" : "Quilmes",
+    "price" : 100
+  },
+  {
+    "name" : "Ciudadela",
+    "price" : 175
+  },
+  {
+    "name" : "Caballito",
+    "price" : 400
+  }
+]
